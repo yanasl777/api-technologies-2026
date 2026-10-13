@@ -1,9 +1,8 @@
-.DS_Store
+venv/
 .venv/
+env/
 __pycache__/
-.pytest_cache/
 *.pyc
-.env
-build/
-cmake-build-*/
-
+.DS_Store
+.idea/
+.vscode/
